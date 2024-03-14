@@ -24,8 +24,12 @@
 - Upon successful verification, the border of the video KYC screen is highlighted with a green color, indicating completion.
 
 ## App Working:
+
 - **Email Verification:** Upon entering the email ID, an OTP is sent to the user's email for verification.
 - **Aadhar and PAN Verification:** The user-provided Aadhar card number is verified with the backend database in real-time using Firebase.
 - **Passport Size Image Comparison:** The user's passport size photo is compared with the captured photo using OpenCV. If the images are below a certain threshold level and mean square error, they are considered identical.
 - **Video KYC AI Proctoring:** During the video KYC process, the user's identity is verified by comparing the snapshots of their face with their passport size photo. Additionally, the images of documents displayed by the user are verified with the real-time Firebase database.
+- **Blurred Image Detection:** We are developing a blurred image detection model using Support Vector Machine (SVM) to determine whether the image uploaded by the user is blurred or not.
+The dataset used for blur image detection can be found [here](https://drive.google.com/drive/folders/1B9Lo0Vs5bpX6RiI2AJN2fpK1VcBDpeMz?usp=sharing).
 - **Success Confirmation:** If all verification steps are successful, a green tick mark is displayed, indicating the successful completion of the video KYC process.
+
