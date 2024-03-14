@@ -10,6 +10,7 @@
 ## 3. Login Screen
 - Upon tapping the button on the account creation screen, the user is navigated to a login page where they can enter their email ID.
 - Additionally, there will be a mechanism for email verification, and an OTP (One-Time Password) is sent to the user's email for verification.
+![Launch Screen](App Screenshots/Login.jpeg)
 
 ## 4. KYC Information Entry Screen
 - Once the user successfully logs in, they are directed to a screen where they can enter their KYC information.
