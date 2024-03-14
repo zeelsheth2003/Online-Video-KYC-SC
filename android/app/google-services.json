@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "418326579062",
+    "firebase_url": "https://kyc-app-ab54a-default-rtdb.firebaseio.com",
+    "project_id": "kyc-app-ab54a",
+    "storage_bucket": "kyc-app-ab54a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418326579062:android:e685ee5c419d5e19811c57",
+        "android_client_info": {
+          "package_name": "com.example.kyc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJnT149T1VlcLKvKlcUwuVN-k85RIWzAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
