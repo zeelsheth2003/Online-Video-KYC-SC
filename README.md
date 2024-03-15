@@ -1,7 +1,7 @@
 # Online-Video-KYC-SC
 [App apk link]https://drive.google.com/file/d/168KVLr6nMv8p7uBxAweijhMXuUItcqyt/view?usp=sharing
 
-[Demo Link]https://drive.google.com/file/d/1hj15OxGccATaMVijMkDatrTOt6Bl8IaT/view?usp=sharing 
+[Demo Link]https://drive.google.com/drive/folders/10ZevU4jsO1Lgu442_8y0uVbJNYa6hZLv?usp=drive_link
 # App Flow
 
 ## 1. Launch Screen
